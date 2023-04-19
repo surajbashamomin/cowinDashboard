@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 20px;
+}
+.image-heading-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 2px;
+}
+.website-logo {
+  width: 46px;
+  margin-right: 10px;
+}
+.main-heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 34px;
+  font-weight: 400;
+}
+.bar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
